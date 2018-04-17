@@ -25,6 +25,7 @@ Sample Code for generating AccessToken are available on the following platforms:
  + Node.js
  + Python
  + PHP
+ + Ruby 
 
 > You can use either the following SimpleTokenBuilder or AccessToken sample code to generate an AccessToken. SimpleTokenBuilder encapsulates the underlying AccessToken sample code and is easy to use.
 
@@ -57,6 +58,11 @@ Sample Code for generating AccessToken are available on the following platforms:
 
 + https://github.com/AgoraIO/AgoraDynamicKey/blob/master/php/src/SimpleTokenBuilder.php
 + https://github.com/AgoraIO/AgoraDynamicKey/blob/master/php/src/AccessToken.php
+
+### Ruby 
+
++ https://github.com/AgoraIO/AgoraDynamicKey/blob/master/ruby/src/simple_token_builder.rb
++ https://github.com/AgoraIO/AgoraDynamicKey/blob/master/ruby/src/access_token.rb
 
 ### **YOUR IMPLEMENTATIONS ARE VERY WELCOME.**
 
